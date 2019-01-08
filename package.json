@@ -1,0 +1,23 @@
+{
+  "name": "json-deep-diff",
+  "version": "1.0.0",
+  "description": "A practical example of using npm deep-diff package for tracking changes of JSON documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msuskadev/json-deep-diff.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msuskadev/json-deep-diff/issues"
+  },
+  "homepage": "https://github.com/msuskadev/json-deep-diff#readme",
+  "dependencies": {
+    "deep-diff": "^1.0.2"
+  }
+}
